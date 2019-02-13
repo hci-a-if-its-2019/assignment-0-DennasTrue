@@ -1,6 +1,6 @@
 # Bad Design Example
 # Wall Of text
-Contoh :https://www.barkbusters.co.uk/dog-training-london-central
+# Example :https://www.barkbusters.co.uk/dog-training-london-central
 A wall of text is deadly for an interactive experience. It’s boring and it makes it painful to read. Readability and legibility are crucial elements of web design. Your visitors have to be able to read your text so they can understand what your business is about, what you have to offer and how your products and services can help them solve a problem.
 
 Unfortunately, many small businesses get so caught up in overloading the user with information that they overlook how that information is presented. Consider the fact that users don’t read unless absolutely necessary. Instead they scan through the information and pick out points of interest on a web page.
@@ -28,7 +28,7 @@ Fortunately, there some simple things you can quickly implement yourself to impr
  
  # Cluttered Design
  # Source 
- https://www.lingscars.com/
+ # Example :https://www.lingscars.com/
  This kind of cluttered design will affect your traffic because visitors will leave your site quickly if they hate your design or if they can’t figure out what you sell or what action they’re supposed to take next.
 
 Not only does a cluttered design drive visitors away but chances they won’t return any time soon. A high bounce rate (the percentage of visitors who leave your site after only viewing one page) can also lead to lower rankings. You surely don’t want that to happen as it can make it more difficult for potential customers to find your site within the search engine results when searching for your business.
